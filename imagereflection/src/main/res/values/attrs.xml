@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RelectionImageView">
+        <attr name="focus_title_height" format="dimension|reference"/>
+        <attr name="focus_title_textSize" format="dimension|reference"/>
+        <attr name="left_top_mark_textSize" format="dimension|reference"/>
+        <attr name="right_top_mark_textSize" format="dimension|reference"/>
+        <attr name="focus_title_background" format="color|reference"/>
+        <attr name="left_top_mark_width" format="dimension|reference"/>
+        <attr name="right_top_mark_width" format="dimension|reference"/>
+
+    </declare-styleable>
+</resources>
